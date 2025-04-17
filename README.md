@@ -1,7 +1,5 @@
 # Numpy
-# 📘 NumPy Basics – A Beginner's Guide
-
-This notebook provides a comprehensive introduction to **NumPy**, one of the core libraries for scientific computing in Python. It's designed for beginners looking to understand how to work with arrays, perform mathematical operations, and efficiently handle large datasets using NumPy.
+ introduction to **NumPy**, one of the core libraries for scientific computing in Python. It's designed for beginners looking to understand how to work with arrays, perform mathematical operations, and efficiently handle large datasets using NumPy.
 
 ## 📚 Topics Covered
 
